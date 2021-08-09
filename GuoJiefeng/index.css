@@ -1,0 +1,25 @@
+
+:global(.ant-card-head-title){
+  font-size: 14px;
+}
+:global(.ant-card-extra .ant-input-group-compact){
+  width: 300px;
+}
+:global(.ant-select-selection){
+  height: 32px;
+  font-size: 14px;
+  line-height: 32px;
+  text-align: center;
+}
+:global(.ant-select-selection__placeholder){
+  margin-top: -10px;
+}
+:global(.ant-table){
+  font-size: 13px !important;
+}
+:global(.ant-table-thead){
+  background-color: whitesmoke;
+}
+:global(.ant-table-body){
+  margin: 0 0 !important;
+}
